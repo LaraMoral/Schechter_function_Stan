@@ -1,6 +1,6 @@
 ## $\text{SCHECHTER} \ \ \text{FUNCTION} \ \ \text{IN} \ \ \text{STAN}$
 
-Generation of a Stan model to determine the parameters $\alpha$, $$ of the Schechter luminosity function for galaxies ([Schechter (1976)](#1)):
+Generation of a Stan model to determine the parameters $\alpha$, $L^{\ast}$ and $\phi^{\ast}$ of the Schechter luminosity function for galaxies ([Schechter (1976)](#1)):
 
 $$ \Phi (L)=\phi^{\ast}\left( \frac{L}{L^{\ast}} \right)^{\alpha}e^{-\frac{L}{L^{\ast}}}\frac{1}{L^{\ast}} $$
 
