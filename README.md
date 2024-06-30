@@ -11,6 +11,7 @@ where $N$ is the total number of galaxies in our sample and $V$ is the comoving 
 A small range for the redshift is considered, which allows us to assume a uniform distribution for $z$, and a luminosity function independent of the redshift value. 
 
 
+
 ## References
 <a id="1">[1]</a> 
 Schechter, P. (1976). 
